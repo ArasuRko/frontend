@@ -1,0 +1,99 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 30px;
+  color: #fff;
+}
+label{
+padding-left: 30px;
+}
+.heading a{
+color: blue;
+font-size: 40px;
+margin-left: 350px;
+}
+.bg-color{
+margin:40px 10px 10px 10px;
+border:3px dashed black;
+background-image: url(/form2image.jpg);
+background-size: cover;
+}
+input{
+padding: 8px;
+font-size: 20px;
+}
+.fname{
+    margin-top: 20px;
+    margin-left: 190px;
+}
+.lname{
+    margin-left: 190px;
+}
+.s1{
+padding-left: 10px;
+}
+.email{
+    margin-left: 215px;
+}
+.mb-num{
+margin-left: 125px;
+}
+.gender{
+margin-left: 230px;
+}
+.dob{
+    margin-left: 70px;
+}
+.text-1{
+display: flex;
+}
+.comment{
+margin-left:355px;
+}
+.city{
+margin-left: 265px;
+}
+.pincode{
+margin-left: 220px;
+}
+.state{
+margin-left: 263px;
+}
+.country{
+margin-left:220px;
+}
+.hobbies{
+display:inline-block;
+margin-left: 230px;
+width:25%;
+}
+.hobbies2{
+margin-bottom: 20px;
+}
+.acadamic1{
+    display: flex;
+}
+.side-content ul li{
+list-style: none;
+margin-left: 170px;
+}
+.acadamic2{
+    display:flex;
+}
+.side-content-2 ul li
+{
+list-style: none;
+margin-left: 100px;
+}
+.submit{
+color: black;
+padding:10px 40px 10px 40px;
+}
+.reset{
+    color: black;
+    padding:10px 40px 10px 40px;
+}
+.button
+{
+text-align: center;
+}
